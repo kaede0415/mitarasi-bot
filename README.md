@@ -23,7 +23,6 @@
 | asyncio      | 3.4.3      | pip install asyncio    | 
 
 # 起動方法
-## 方法1
 https://discord.com/developers/applications からDiscordのボットアカウントを作成し、ボットトークンを取得します。  
 main.pyの一番下にあるbot.runの中身を使用するボットのトークンに書き換えます。  
 ```pipenv shell``` をターミナルで実行し、プログラムを実行します。
