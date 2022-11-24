@@ -224,4 +224,4 @@ async def random(ctx):
                 match_embed.add_field(name="ルーム名 : "+r[i], value="参加人数 : "+str(len(room[r[i]])), inline=False)
             await ctx.send(embed=match_embed)
 
-bot.run('TOKEN')
+bot.run('MTA0MzQ1NjI2NTE5MzUyMTIwMg.GJrEDn.7Ssoia2svAdwkHqPcGE7PMCxXruc8tFEiv52hc')
