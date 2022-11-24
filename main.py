@@ -224,4 +224,4 @@ async def random(ctx):
                 match_embed.add_field(name="ルーム名 : "+r[i], value="参加人数 : "+str(len(room[r[i]])), inline=False)
             await ctx.send(embed=match_embed)
 
-bot.run('TOKEN')
+bot.run('https://github.com/akazdayo/mitarasi-bot#%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95')
